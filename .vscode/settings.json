@@ -52,5 +52,12 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    }
+    },
+        "githubPullRequest.hosts": [
+            {
+                "host": "https://github.com",
+                "username": "oauth",
+                "token": "00d25cdf1d2e21be9b63c764d9dd53311c018270"
+            }
+        ]
 }
