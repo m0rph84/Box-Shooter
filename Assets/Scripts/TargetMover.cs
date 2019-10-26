@@ -19,7 +19,7 @@ public class TargetMover : MonoBehaviour {
 		// do the appropriate motion based on the motionState
 		switch(motionState) {
 			case motionDirections.Spin:
-				// rotate around the up axix of the gameObject
+				// rotate around the up axis of the gameObject
 				gameObject.transform.Rotate (Vector3.up * spinSpeed * Time.deltaTime);
 				break;
 			
