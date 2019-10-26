@@ -53,4 +53,7 @@
         "temp/":true,
         "Temp/":true
     },
+    "cSpell.ignoreWords": [
+        "mathf"
+    ],
 }
